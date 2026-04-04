@@ -1,5 +1,5 @@
 # [kodikaslab @ github](https://github.com/kodikaslab)
-## C Programs
+## [C Programs](./c-code.md)
 * Finds aliquot sequense terms: [aliquot.c](./c-progs/aliquot.c)
 
 ## Song of the Day
