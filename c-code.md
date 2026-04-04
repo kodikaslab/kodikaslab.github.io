@@ -1,7 +1,7 @@
 # C code (C kodikas)
 ## Finds aliquot sequense terms
 ```c
-*	File: aliquot.c
+/*	File: aliquot.c
 
 	Finds aliquot sequense terms of a given int for a given length.
 	If the given length is 0 it finds all the terms.
