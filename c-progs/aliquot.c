@@ -36,7 +36,7 @@ int main(void)
 	choise = getchar();	
 	
 	// Find next term as sum of term divisors.
-	while (term > 0 && (!max_l || (max_l && l < max_l)) ) {
+	while (term > 0 && (!max_l || l < max_l) ) {
 		next_term  = 1;
 		for (i = 2 ; i * i < term ; i++)
 			if (!(term % i)) 
