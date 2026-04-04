@@ -1,4 +1,4 @@
-#Kodikas and Hobby Lab
+# Kodikas and Hobby Lab
 
-##C Programs
-*Finds aliquot sequense terms: [aliquot.c](./c-progs/aliquot.c)
+## C Programs
+* Finds aliquot sequense terms: [aliquot.c](./c-progs/aliquot.c)
