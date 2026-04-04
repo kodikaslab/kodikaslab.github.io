@@ -1,2 +1,2 @@
 # kodikaslab.github.io
-A personal collection of code and small projects, starting with C code (kodikas).
+A personal collection of code (kodikas) and small projects, starting with C code.
