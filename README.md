@@ -1,5 +1,5 @@
-A personal collection of code and small projects.
+#Kodikas and Hobby Lab
 
-# C Programs
+##C Programs
 
-Finds aliquot sequense terms of a given int for a given length: [aliquot.c](./c-progs/aliquot.c)
+*Finds aliquot sequense terms: [aliquot.c](./c-progs/aliquot.c)
