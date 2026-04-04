@@ -1,2 +1,12 @@
 title: Kodikas and Hobby Lab
 description: Kodikas and hobby lab. C programming.
+
+# Ρυθμίσεις Markdown
+markdown: kramdown
+
+kramdown:
+  toc_levels: 2..4
+  auto_ids: true
+  input: GFM
+  html_to_native: true
+
