@@ -1,4 +1,8 @@
 # C code (C kodikas)
+
+* TOC
+{:toc}
+
 ## Finds aliquot sequense terms
 ```c
 /*	File: aliquot.c
