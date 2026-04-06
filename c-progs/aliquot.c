@@ -1,6 +1,6 @@
 /*	File: aliquot.c
 
-	Finds aliquot sequense terms of a given int for a given length.
+	Finds aliquot sequence terms of a given int for a given length.
 	If the given length is 0 it finds all the terms.
 	However, max term is limited to 1000000000000000.
 	Prints the terms or just the length according to user input.
@@ -8,7 +8,7 @@
 	Does not terminate in case of amicable numbers as 220 and 284.
 	Does not terminate in case of sociable numbers as 12496.
 
-	Referrences
+	References
 	-----------
 	Aliquot sequence: https://en.wikipedia.org/wiki/Aliquot_sequence
 	Perfect numbers: https://en.wikipedia.org/wiki/Perfect_number
