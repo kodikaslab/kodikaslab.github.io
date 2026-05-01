@@ -25,12 +25,13 @@
 */
 
 #include <stdio.h>
+
 #define MAX_NUM 1000000000000000	// Max term.
 
 int main(void)
 {
 
-	unsigned long long term , next_term, i;
+	unsigned long long term , next_term, i, temp , p, s;
 	int max_l , l = 0;
 	char choise;
 
@@ -45,13 +46,49 @@ int main(void)
 	// Find next term as sum of term divisors.
 	while (term > 0 && (!max_l || l < max_l) ) {
 		next_term  = 1;
-		for (i = 2 ; i * i < term ; i++)
-			if (!(term % i)) 
-				next_term += i + term / i;  // i is a term divisor. Add i and its sibling divisor term/i.
-       	
-		if (i * i == term)         // Checking if i^2 is a divisor of term.
-			next_term += i;
-				
+		temp = term;
+		
+		// Use prime factorization to find the sum o divisors
+		// Find the prime factorization of term
+		// Calculate the geometric sum for each prime
+		// The sum of divisors equals with the gemetr. sum - term
+		p = s = 1;
+		while (!(temp % 2)) {	// First check if 2 is prime factor and calculate geom. series
+			p *= 2;
+			s += p;
+			temp /= 2;		
+		}
+		next_term *= s;
+		
+		p = s = 1;
+		while (!(temp % 3)) {	// Then check if 3 is prime factor and calculate geom. series
+			p *= 3;
+			s += p;
+			temp /= 3;			
+		}
+		next_term *= s;
+		
+		for (i = 5 ; i * i  <= temp  ; i += 6 ) { // Then 5 and 7 and so on, adding 6
+       			p = s = 1;	
+			while (!(temp % i)) {
+				p *= i;
+				s += p;
+				temp /= i;			
+			}
+			next_term *= s;
+
+       			p = s = 1;	
+			while (!(temp % (i + 2))) {
+				p *= i + 2;
+				s += p;
+				temp /= i + 2;			
+			}	
+			next_term *= s;
+
+		}
+		if (temp > 1)				// Take into consideration a possible remainder
+			next_term *= (1 + temp);	
+		next_term -= term;			// Calculates the sum of divisors
 	
 		if (choise == 'f')
 			printf("%llu\n", term);
