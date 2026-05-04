@@ -118,7 +118,7 @@ int main(void)
         of a pair of positive integers entered by the user,
         using the Euclidean algorith
 
-        Eucleides: https://en.wikipedia.org/wiki/Eucleides
+        Euclid: https://en.wikipedia.org/wiki/Euclid
 */
 
 #include <stdio.h>
