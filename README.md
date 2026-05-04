@@ -9,6 +9,8 @@
 ## [Hall of Fame](./hall_of_fame.md)
 * Sat, 25 Apr 2026: [Change the world...](https://www.tiktok.com/@follow4laughter/video/7607906416527035670?is_from_webapp=1&sender_device=pc)
 
+## [Hall of Lame](./hall_of_lame.md)
+
 ## [C Programs](./c-code.md)
 * Finds aliquot sequence terms: [aliquot.c](./c-code.md#finds-aliquot-sequence-terms)
 * Finds Greatest Common Divisor (GCD) & Least Common Multiple (LCM): [gcdlcm.c](c-code.md#finds-greatest-common-divisor-gcd--least-common-multiple-lcm)
