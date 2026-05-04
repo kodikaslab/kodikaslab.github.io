@@ -112,7 +112,7 @@ int main(void)
 }
 ```
 
-## Finds Greatest Common Divisor (GCD) & Least Common Multiple (LCM)
+## [Finds Greatest Common Divisor (GCD) & Least Common Multiple (LCM)](c-progs/gcdlcm.c)
 ```c
 /*      Finds Greatest Common Divisor (GCD) & Least Common Multiple (LCM)
         of a pair of positive integers entered by the user,
