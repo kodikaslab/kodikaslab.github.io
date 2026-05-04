@@ -1,9 +1,9 @@
-# C code ([C kodikas](c-progs))
+# C code (C kodikas)
 
 * TOC
 {:toc}
 
-## Finds aliquot sequence terms
+## [Finds aliquot sequence terms](c-progs/aliquot.c)
 ```c
 /*	File: aliquot.c
 
