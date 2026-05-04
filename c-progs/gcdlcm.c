@@ -1,4 +1,6 @@
-/*	Finds Greatest Common Divisor (GCD) & Least Common Multiple (LCM)
+/*	File: gcdlcm.c
+	
+	Finds Greatest Common Divisor (GCD) & Least Common Multiple (LCM)
 	of a pair of positive integers entered by the user, 
 	using the Euclidean algorith
 
