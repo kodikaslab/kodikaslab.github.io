@@ -1,4 +1,4 @@
-# C code (C kodikas)
+# C code ([C kodikas](c-progs))
 
 * TOC
 {:toc}
