@@ -8,5 +8,5 @@
 
 ## [C Programs](./c-code.md)
 * Finds aliquot sequence terms: [aliquot.c](./c-code.md#finds-aliquot-sequence-terms)
-* Finds Greatest Common Divisor (GCD) & Least Common Multiple (LCM): [gcdlcm.c](c-code.md#Finds-Greatest-Common-Divisor-(GCD)-&-Least-Common-Multiple-(LCM)
+* Finds Greatest Common Divisor (GCD) & Least Common Multiple (LCM): [gcdlcm.c](c-code.md#Finds-Greatest-Common-Divisor-(GCD)-&-Least-Common-Multiple-(LCM))
 
