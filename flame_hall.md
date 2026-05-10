@@ -1,6 +1,5 @@
 # Hall of FLame
-Enter and rise on the Wall of Fame... or be shamed on the Wall of Lame
-
+Enter and rise on the [Wall of Fame](#wall-of-fame) ... or be shamed on the [Wall of Lame](#wall-of-lame) !!!
 ## Wall of Fame
 * Sat, 25 Apr 2026: [Change the world...](https://www.tiktok.com/@follow4laughter/video/7607906416527035670?is_from_webapp=1&sender_device=pc)
 
