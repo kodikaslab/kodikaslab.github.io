@@ -8,10 +8,10 @@
 ## Hall of FLame
 Enter and rise on the Wall of Fame... or be shamed on the Wall of Lame
 
-### [Wall of Fame](./wall_of_fame.md)
+### [Wall of Fame](./flame_hall.md#wall_of_fame)
 * Sat, 25 Apr 2026: [Change the world...](https://www.tiktok.com/@follow4laughter/video/7607906416527035670?is_from_webapp=1&sender_device=pc)
 
-### [Wall of Lame](./wall_of_lame.md)
+### [Wall of Lame](./flame_hall.md#wall_of_lame)
 * Mon, 04 May 2026: [YOUR FACE SOUNDS FAMILIAR – ΕΠΕΙΣΟΔΙΟ 03](https://www.antenna.gr/watch/l5iv4yj1zqsfplduq7iehphq/your-face-sounds-familiar-epeisodio-03)
 
 ## [C Programs](./c-code.md)
