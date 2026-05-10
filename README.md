@@ -1,5 +1,7 @@
 # [kodikaslab @ github](https://github.com/kodikaslab)
 
+TOC {:toc}
+
 ## [Song of the Day](./song_of_the_day.md)
 * Sun, 10 May 2026: [Walk Of Life](https://www.youtube.com/watch?v=kd9TlGDZGkI) by [Dire Straits](https://en.wikipedia.org/wiki/Dire_Straits)
 * Mon, 04 Apr 2026: [Mannish Boy](https://www.youtube.com/watch?v=bSfqNEvykv0) by [Muddy Waters](https://en.wikipedia.org/wiki/Muddy_Waters)
