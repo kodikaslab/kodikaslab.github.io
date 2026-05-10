@@ -6,7 +6,7 @@
 * Sat, 04 Apr 2026: [Jeanny](https://www.youtube.com/watch?v=Urw-iutHw5E&list=RDUrw-iutHw5E&start_radio=1) by [Falco](https://en.wikipedia.org/wiki/Falco_(musician))
 
 ## Hall of FLame
-Enter and rise on the [Wall of Fame](./flame_hall.md#wall-of-fame)... or be shamed on the [Wall of Lame](./flame_hall.md#wall-of-lame)!!!
+Enter and rise on the [Wall of Fame](./flame_hall.md#wall-of-fame)... or be shamed on the [Wall of Lame](./flame_hall.md#wall-of-lame) !!!
 
 ### [Wall of Fame](./flame_hall.md#wall-of-fame)
 * Sat, 25 Apr 2026: [Change the world...](https://www.tiktok.com/@follow4laughter/video/7607906416527035670?is_from_webapp=1&sender_device=pc)
